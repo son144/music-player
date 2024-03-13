@@ -35,7 +35,7 @@ const MainDashboard = () => {
             <div className={`left-container h-[100%]`}>
                 <h2 className="heading text-2xl font-bold py-3 px-8 mb-3">Library</h2>
                 <div className={`left-inner-container`}>
-                    {data.map((song, index) => (
+                    {data&&data.length>0&&data.map((song, index) => (
                         <div
                             onClick={() => setSelectedSongIndex(index)}
                             className={`outer-container px-8 py-4 cursor-pointer ${selectedSongIndex === index && "bg-[#FF7ED4]"}`}
