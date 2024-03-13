@@ -1,0 +1,108 @@
+
+[
+    {
+        "id":1,
+        "SongName": "Glaciar",
+        "TrackTiming": 180,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/07/4163ebb931e06d4ee8eb184295c0246d4a5055f7-1024x1024.jpg",
+        "singerName": "Juan Rios",
+        "audioUrl":"fgfd",
+        "type": "Pop",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=21648"
+       
+        
+    },
+    {
+        "id":2,
+        "SongName": "What If I Told You",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/07/935da7886600df5eeb2d3b13b12cf27ee8c6c700-1024x1024.jpg",
+        "singerName": "Juan Rios",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=21649"
+      
+        
+    },
+    {
+        "id":3,
+        "SongName": "Toofpick",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+        "singerName": "Blue Wednesday, Shopan",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=11227"
+        
+    },
+    {
+        "id":4,
+        "SongName": "Airplane Mode",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/06/23b2ff959731b56ea8545828b462311e8b1a2bcc-1024x1024.jpg",
+        "singerName": "Axian, falcxne, Makzo",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=20121"
+        
+    },
+    {
+        "id":5,
+        "SongName": "Antematter",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/05/732128e1da8fd5f6292ffc1926a2ea840a54f4d0-1024x1024.jpg",
+        "singerName": "Toonorth",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=17938"
+        
+    },
+    {
+        "id":6,
+        "SongName": "Almost Home",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/07/875b9624506ae8d05750b9e4ab4579abb1fe3e16-1024x1024.jpg",
+        "singerName": "Chillhop Music",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=21781"
+        
+    },
+    {
+        "id":7,
+        "SongName": "Kinship",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
+        "singerName": "Sleepy Fish, mommy",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=19060"
+      
+        
+    },
+    {
+        "id":8,
+        "SongName": "Vintage",
+        "TrackTiming": 240,
+        "Image": "https://chillhop.com/wp-content/uploads/2021/04/cb0cc6270d7f2e1bb13e44e8832bd5c9b2a61080-1024x1024.jpg",
+        "singerName": "Evil Needle",
+        "audioUrl":"fgfd",
+        "type": "Rock",
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=17088"
+        
+    },
+    {
+        "id":9,
+        "SongName": "Whale Call",
+        "singerName": "Saib",
+        "type": "Rock",
+        "Image":
+            "https://chillhop.com/wp-content/uploads/2020/07/385d44fc6335bf676b30be524bcdfd7d640716a4-1024x1024.jpg",
+      
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=8099"
+   
+     
+    }
+   ]
+
+
